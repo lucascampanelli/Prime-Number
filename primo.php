@@ -23,7 +23,7 @@
 
         if($count > 0){
             if($count == 1){
-                echo "Existem {$count} número primo no intervalo informado, sendo ele: {$numeros[0]}";
+                echo "Existe {$count} número primo no intervalo informado, sendo ele: {$numeros[0]}";
             }
             else{
                 echo "Existem {$count} números primos no intervalo informado, são eles: ";
