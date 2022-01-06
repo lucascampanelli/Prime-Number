@@ -6,7 +6,7 @@
         $count = 0;
         $numeros = array();
 
-        for($i = $inicial + 1; $i < $final - 1; $i++){
+        for($i = $inicial + 1; $i < $final; $i++){
             $primo = 1;
 
             for($j = 2; $j < $i; $j++){
